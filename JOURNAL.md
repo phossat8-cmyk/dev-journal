@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Learning Log& echo - Solidity basics& echo - Git workflows& echo - Web3 concepts
+# Weekly Goals& echo Focus: consistency and depth over breadth this week.
 
 ---
-Session 2 of 50 | 14/03/2026 15:16:52.15
+Session 3 of 50 | 14/03/2026 15:17:00.17
