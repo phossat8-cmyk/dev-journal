@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Next Steps& echo Planning the next sprint of learning and building.
+# Dev Journal& echo Tracking my development journey day by day.
 
 ---
-Session 19 of 50 | 14/03/2026 15:19:10.16
+Session 20 of 50 | 14/03/2026 15:19:16.14
