@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Wins& echo Small victories that kept me motivated this week.
+# Tools& echo - VS Code& echo - Remix IDE& echo - GitHub Desktop
 
 ---
-Session 16 of 50 | 14/03/2026 15:18:46.12
+Session 17 of 50 | 14/03/2026 15:18:55.15
