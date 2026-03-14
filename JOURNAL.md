@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Resources& echo Bookmarked useful docs, tutorials and references for later.
+# Challenges& echo Documenting blockers and how I solved them.
 
 ---
-Session 4 of 50 | 14/03/2026 15:17:10.21
+Session 5 of 50 | 14/03/2026 15:17:22.22
