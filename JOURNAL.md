@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Concepts& echo Revisiting fundamentals to build stronger foundations.
+# Next Steps& echo Planning the next sprint of learning and building.
 
 ---
-Session 8 of 50 | 14/03/2026 15:17:43.16
+Session 9 of 50 | 14/03/2026 15:17:54.20
