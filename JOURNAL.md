@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Weekly Goals& echo Focus: consistency and depth over breadth this week.
+# Resources& echo Bookmarked useful docs, tutorials and references for later.
 
 ---
-Session 23 of 50 | 14/03/2026 15:19:46.14
+Session 24 of 50 | 14/03/2026 15:19:51.12
