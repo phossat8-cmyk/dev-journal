@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Challenges& echo Documenting blockers and how I solved them.
+# Wins& echo Small victories that kept me motivated this week.
 
 ---
-Session 15 of 50 | 14/03/2026 15:18:39.12
+Session 16 of 50 | 14/03/2026 15:18:46.12
