@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Dev Journal& echo Tracking my development journey day by day.
+# Project Overview& echo Building skills across different technologies and tools.
 
 ---
-Session 20 of 50 | 14/03/2026 15:19:16.14
+Session 21 of 50 | 14/03/2026 15:19:24.17
