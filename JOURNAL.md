@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Tools& echo - VS Code& echo - Remix IDE& echo - GitHub Desktop
+# Concepts& echo Revisiting fundamentals to build stronger foundations.
 
 ---
-Session 47 of 50 | 14/03/2026 15:22:52.12
+Session 48 of 50 | 14/03/2026 15:23:00.13
