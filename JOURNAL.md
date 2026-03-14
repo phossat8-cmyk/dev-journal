@@ -1,6 +1,6 @@
 # Dev Journal
 
-# Project Overview& echo Building skills across different technologies and tools.
+# Learning Log& echo - Solidity basics& echo - Git workflows& echo - Web3 concepts
 
 ---
-Session 11 of 50 | 14/03/2026 15:18:04.15
+Session 12 of 50 | 14/03/2026 15:18:12.17
