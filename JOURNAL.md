@@ -1,6 +1,6 @@
 # Dev Journal - Volume 2
 
-# Exploration Log& echo Diving deep into new areas of development today.
+# Best Practices& echo - Write clean code& echo - Test early& echo - Document everything
 
 ---
-Entry 40 of 50 | 18/03/2026 23:32:43.19
+Entry 41 of 50 | 18/03/2026 23:32:51.16
