@@ -1,6 +1,6 @@
-# Dev Journal
+# Dev Journal - Volume 2
 
-# Dev Journal& echo Tracking my development journey day by day.
+# Best Practices& echo - Write clean code& echo - Test early& echo - Document everything
 
 ---
-Session 50 of 50 | 14/03/2026 15:23:22.12
+Entry 1 of 50 | 18/03/2026 23:26:12.33
