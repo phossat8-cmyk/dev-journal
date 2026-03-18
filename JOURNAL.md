@@ -1,6 +1,6 @@
 # Dev Journal - Volume 2
 
-# Learning Path& echo Updated my roadmap based on what I learned this week.
+# Key Takeaways& echo The most important lessons from recent study sessions.
 
 ---
-Entry 43 of 50 | 18/03/2026 23:33:13.19
+Entry 44 of 50 | 18/03/2026 23:33:27.16
