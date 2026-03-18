@@ -1,6 +1,6 @@
 # Dev Journal - Volume 2
 
-# Daily Log& echo Consistent progress beats occasional bursts every time.
+# References& echo Curating the best resources I have found so far.
 
 ---
-Entry 28 of 50 | 18/03/2026 23:30:47.21
+Entry 29 of 50 | 18/03/2026 23:30:53.22
