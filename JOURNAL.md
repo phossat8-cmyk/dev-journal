@@ -1,6 +1,6 @@
 # Dev Journal - Volume 2
 
-# Study Plan& echo Revised my schedule to focus more on practical projects.
+# Patterns& echo Noticing recurring patterns across different technologies.
 
 ---
-Entry 16 of 50 | 18/03/2026 23:28:42.16
+Entry 17 of 50 | 18/03/2026 23:28:57.13
